@@ -1,13 +1,11 @@
 ### Hi there I'm Élodie👋
 
-- 🔭 I’m currently working at Le Goût des plantes
+- 🔭 I’m currently working at [lgdp]
 - 🌱 I’m currently learning Wordpress, Woocommerce and Elementor
 - 👯 I’m looking to collaborate on a Symfony project
-- 💬 Ask me about travelling ... I won't be able to stop my self
+- 💬 Ask me about scrum and agile method and well ... try to stop me 😄
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a GIF addict
-
-### Hello World, I'm Anna  👋
 
  <!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />-->
 
@@ -32,18 +30,19 @@
 <br />
 ---
 
-<!--<details>
+--<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Elodie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Elodie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elodiedaubie&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elodiedaubie" />
 
 </details>
 
 [linkedin]: https://linkedin.com/in/elodie-daubie/
+[lgdp]: https://legoutdesplantes.com/
