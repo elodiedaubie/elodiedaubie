@@ -1,13 +1,19 @@
 ### Hi there I'm Élodie👋
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+## Here I am
 - 🔭 I’m currently working at [Le Goût des plantes]
-- 🌱 I’m currently learning Wordpress, Woocommerce and Elementor
+- 🌱 I’m currently learning Wordpress, Woocommerce
+- and Elementor
 - 👯 I’m looking to collaborate on a Symfony project
-- 💬 Ask me about scrum and agile method and well ... try to stop me 😄
+- 💬 Ask me about scrum and agile method and well
+-  ... try to stop me 😄
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a GIF addict
 
- <!--<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />-->
+<br />
 
 ### How to reach me:
 [<img align="left" alt="elodie_daubie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
