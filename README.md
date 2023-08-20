@@ -36,19 +36,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Elodie's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elodiedaubie&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Elodie's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elodiedaubie" />
-
-</details>
-
 [linkedin]: https://linkedin.com/in/elodie-daubie/
 [Digi Atlas]: https://www.digi-atlas.com/
