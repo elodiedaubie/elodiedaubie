@@ -4,7 +4,7 @@
 
 
 ## Here I am
-- 🔭 I’m currently working at [Le Goût des plantes]
+- 🔭 I’m currently working at [Digi Atlas]
 - 🌱 I’m currently learning Wordpress, Woocommerce and Elementor
 - 👯 I’m looking to collaborate on a Symfony project
 - 💬 Ask me about scrum and agile method and well ... try to stop me 😄
@@ -51,4 +51,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </details>
 
 [linkedin]: https://linkedin.com/in/elodie-daubie/
-[Le Goût des plantes]: https://legoutdesplantes.com/
+[Digi Atlas]: https://www.digi-atlas.com/
